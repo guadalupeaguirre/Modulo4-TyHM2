@@ -1,4 +1,4 @@
-# Modulo_4-Qgis
+# Módulo 4: Qgis
 # Análisis Espacio-Temporal de Cobertura Nival en la Cordillera de los Andes (2025–2026)
 
 ## Descripción General del Proyecto
